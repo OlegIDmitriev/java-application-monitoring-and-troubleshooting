@@ -1,6 +1,6 @@
 ## Modern applications architecture and deployment: What tiers do we monitor? (1h)
-| Tier | Metrics|
-|------
+| Tier | Metrics |
+|------ |------ |
 | Application logic layers: UI/P, API/C, BL/S, DAL/R | 
 | Application caching 
 | Thread Pool | Thread count
@@ -28,4 +28,4 @@
 | Hardware: HDD/SSD | IOPS, Available Space
 | Hardware: RAM | Available, Swap
 | Hardware: CPU | Utilization, Load average
-| Hardware: LAN | Utilization |
+| Hardware: LAN | Utilization 

@@ -28,4 +28,4 @@
 | Hardware: HDD/SSD | IOPS, Available Space
 | Hardware: RAM | Available, Swap
 | Hardware: CPU | Utilization, Load average
-| Hardware: LAN | Utilization
+| Hardware: LAN | Utilization |

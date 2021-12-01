@@ -1,5 +1,5 @@
 ## Modern applications architecture and deployment: What tiers do we monitor? (1h)
-| Tier 
+| Tier | Metrics|
 |------
 | Application logic layers: UI/P, API/C, BL/S, DAL/R | 
 | Application caching 

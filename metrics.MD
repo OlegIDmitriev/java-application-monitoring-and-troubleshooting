@@ -4,7 +4,7 @@
 | Application logic layers: UI/P, API/C, BL/S, DAL/R | 
 | Application caching 
 | Thread Pool | Thread count
-| JPA Caching | Cach
+| JPA Caching | Cache
 | JPA subsystem 
 | Connection Pools | Connections pool, lifetime
 | JDBC subsystem 

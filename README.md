@@ -528,7 +528,7 @@ top -H -p <pid>
 vmstat 1 [-w] # mpstat 1
 iostat 1 [-xm]
 pidstat 1
-netstat 1 [-tulnp]
+netstat 1 [-tulnp] # информация о портах
 
 jps [-lvm]
 jcmd <pid> help
